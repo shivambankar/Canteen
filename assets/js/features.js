@@ -269,7 +269,7 @@ function customerFooterUI() {
                             <h1 class="sm">Quick Links</h1>
                             <li><a href="index.html">Canteen Home</a></li>
                             <li><a href="our-vision.html">Our Vision</a></li>
-                            <li><a href="https://github.com/rvutd/mit-canteen-site" target="_blank">CITL</a></li>
+                            <li><a href="https://citl-canteen.netlify.app/index.html" target="_blank">CITL</a></li>
                             
                         </ul>
                     </article>
